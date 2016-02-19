@@ -6,5 +6,5 @@ public class Class1 {
 	int c;
 	int x;
 	int d;
-	int z;
+	int y;
 }
