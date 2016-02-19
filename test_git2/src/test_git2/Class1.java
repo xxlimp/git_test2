@@ -2,7 +2,7 @@ package test_git2;
 
 public class Class1 {
 
-	int a4;
+	int a6;
 	int b;
 	int c;
 	int x;
