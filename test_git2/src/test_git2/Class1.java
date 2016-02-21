@@ -13,5 +13,5 @@ public class Class1 {
 	int f;
 	
 	int abcde;
-	int y;
+	int y1;
 }
