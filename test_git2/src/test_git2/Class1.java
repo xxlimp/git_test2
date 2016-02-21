@@ -8,6 +8,6 @@ public class Class1 {
 	int b;
 	int c;
 	int x;
-	int d1;
+	int d;
 	int y;
 }
